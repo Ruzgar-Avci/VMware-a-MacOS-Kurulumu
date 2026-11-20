@@ -44,7 +44,7 @@
   - **Version (Sürüm):** İndirdiğiniz macOS sürümüne göre seçim yapın
   - **Name & Location (Ad ve Konum):** İstediğiniz adı ve konumu belirleyin. Adını ve dosya yolunu unutmayın!
   - **Processors (İşlemci):** Varsayılan veya daha fazlası (Sisteminize bağlı)
-  - **RAM (Bellek):** 2 GB veya daha fazlası (Mümkünse 8GB Önreririm)
+  - **RAM (Bellek):** 2 GB veya daha fazlası (Mümkünse 8GB)
   - **Network (Ağ):** Varsayılan (NAT)
   - **I/O (Giriş/Çıkış Denetleyicisi):** Varsayılan (LSI Logic)
   - **Virtual Disk (Sanal Disk):** Varsayılan (SATA)
