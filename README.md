@@ -44,11 +44,11 @@
   - **Version (Sürüm):** İndirdiğiniz macOS sürümüne göre seçim yapın
   - **Name & Location (Ad ve Konum):** İstediğiniz adı ve konumu belirleyin. Adını ve dosya yolunu unutmayın!
   - **Processors (İşlemci):** Varsayılan veya daha fazlası (Sisteminize bağlı)
-  - **RAM (Bellek):** 2 GB veya daha fazlası (Sisteminize bağlı)
+  - **RAM (Bellek):** 2 GB veya daha fazlası (Mümkünse 8GB Önreririm)
   - **Network (Ağ):** Varsayılan (NAT)
   - **I/O (Giriş/Çıkış Denetleyicisi):** Varsayılan (LSI Logic)
   - **Virtual Disk (Sanal Disk):** Varsayılan (SATA)
-  - **Disk:** Create New (Yeni Oluştur). 35 GB veya daha fazlası. Split Virtual Disk (Sanal diski böl). Varsayılan Ad.
+  - **Disk:** Create New (Yeni Oluştur). Mümkünse 70 GB veya daha fazlası. Split Virtual Disk (Sanal diski böl). Varsayılan Ad.
   - İşlemi tamamlayın (Finish)! 
 - Az önce oluşturduğunuz sanal makinenin konumuna gidin.  
   `{Sanal Makine Adınız}.vmx` dosyasını bir metin düzenleyici (Not Defteri vb.) ile açın:
