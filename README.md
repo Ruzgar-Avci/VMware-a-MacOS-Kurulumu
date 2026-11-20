@@ -6,8 +6,8 @@
 
 ## Diller
 
-- [English](README.en.md)
-- [Русский](README.ru.md)
+- [English](https://github.com/kiraio-moe/macOS-on-VMWare)
+- [Русский](https://github.com/kiraio-moe/macOS-on-VMWare/blob/main/README.ru.md)
 - [Türkçe](README.md)
 
 ## Ön Gereksinimler
