@@ -82,7 +82,7 @@
 - Dilinizi seçin.
 - **Disk İzlencesi**'ni (Disk Utility) seçin.
 - Sol menüden `VMware Virtual SATA Hard Drive Media` diskini seçin > **Sil**'e (Erase) tıklayın.
-- Sürücüye bir ad verin > Biçimi **APFS** olarak seçin > **Sil**'e tıklayın.
+- Sürücü adını **Macintosh HD** yapın > Biçimi **APFS** olarak seçin > **Sil**'e tıklayın.
 - **Bitti**'ye (Done) tıklayın > Disk İzlencesi'ni kapatın.
 - **macOS Yükle** (Install macOS) seçeneğine tıklayın. Kurulum sırasında sanal makine birkaç kez yeniden başlatılacaktır.
 - Standart işletim sistemi kurulum adımlarını takip edin. *(Genellikle **Şimdi Değil** veya **Atla** seçeneklerini kullanabilirsiniz)*
